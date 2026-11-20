@@ -1,0 +1,2 @@
+# Auto APK Generator GUI-এর জন্য বিশেষ কিছু প্যাকেজের প্রয়োজন নেই
+# tkinter এবং subprocess পাইথনের ডিফল্ট লাইব্রেরি
